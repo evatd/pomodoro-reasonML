@@ -1,5 +1,7 @@
 # Pomodoro Timer
 
+See `feature/tutorial`
+
 ## Run Project
 
 ```sh
