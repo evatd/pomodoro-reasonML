@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-See `feature/tutorial`
+See `feature-tutorial`
 
 ## Run Project
 
