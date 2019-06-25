@@ -1,4 +1,4 @@
-# pomodoro-timer
+# Pomodoro Timer
 
 ## Run Project
 
