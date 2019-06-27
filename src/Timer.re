@@ -63,6 +63,7 @@ let make = () => {
 
   // Reason instead asks you to also list the number of elements you care about
   // so no elementa after effect => we use useEffect0
+  // setInterval is chained onto Js.Global, as per BS
   React.useEffect0(() => {
     let timerId = Js.Global.setInterval(() => dispatch(Tick), 1000);
     // unmount via Some
